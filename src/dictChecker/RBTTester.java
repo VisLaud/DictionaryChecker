@@ -1,4 +1,4 @@
-package Thapa.cs146.project4;
+package dictChecker;
 
 import static org.junit.Assert.*;
 
